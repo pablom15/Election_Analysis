@@ -10,9 +10,8 @@ A Colorado Board of Elections employee has given me the tasks below to complete 
 5. Determine winner of the election based on popular vote.
 
 ## Resources
--Data Source: election_results.csv
-
--Software: Python 3.7.6, Visual Studio Code, 1.46.0
+- Data Source: election_results.csv
+- Software: Python 3.7.6, Visual Studio Code, 1.46.0
 
 ## Summary
 The analysis of the election show that:
@@ -26,7 +25,7 @@ The analysis of the election show that:
     - Candidate 2 received "x%" of votes and "y" number of votes.
     - Candidate 3 received "x%" of votes and "y" number of votes.
  - The winner of the election was:
-  -Candidate (1, 2, or 3), who received "x%" of the vote and "y" number of votes.
+    - Candidate (1, 2, or 3), who received "x%" of the vote and "y" number of votes.
   
 ## Challenge Overview
 
