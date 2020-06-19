@@ -28,5 +28,22 @@ The analysis of the election show that:
     - Candidate (1, 2, or 3), who received "x%" of the vote and "y" number of votes.
   
 ## Challenge Overview
+The challenge for this module gave me the tasks below to complete an election audit based on county:
+
+1. Create a complete list of candidates who recieved votes.
+2. Calculate the percentage of votes for each county.
+3. Calculate total number of votes for each county.
+4. Determine the county with largest voter turnout.
 
 ## Challenge Summary
+The challenge added to following analysis from the election data:
+  - The counties were:
+    - County 1
+    - County 2
+    - County 3
+  - The county results were:
+    - County 1 received "x%" of votes and "y" number of votes.
+    - County 2 received "x%" of votes and "y" number of votes.
+    - County 3 received "x%" of votes and "y" number of votes.
+  - The county with the largest turnout of voters:
+    - County (1, 2, or 3)
